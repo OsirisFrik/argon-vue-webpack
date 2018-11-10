@@ -5,6 +5,7 @@
 ![with-webpack](https://img.shields.io/badge/made%20with-webpack-blue.svg?longCache=true&style=for-the-badge&logo=webpack)
 
 </div>
+
 Based on [webpack template](https://github.com/vuejs-templates/webpack) and [Argon](https://github.com/creativetimofficial/vue-argon-design-system) from [Creative Tim](https://creative-tim.com)
 
 By [OsirisFrik](https://github.com/OsirisFrik)
