@@ -79,3 +79,16 @@ $ npm run dev
             |-- JavascriptComponents.vue
             |-- Navigation.vue
 ```
+
+### template structure
+```
+|-- my-project
+    |-- build
+    |-- config
+    |-- dist
+    |-- src
+        |-- TEMPLATE
+    |-- static
+        |-- img #Put here imgs files for vue-lazyload work
+etc...
+```
